@@ -5,6 +5,7 @@
 Gives you a better understanding of how native javascript works. He is the creator of JSON format
 * [JavaScript: The Good Parts](https://www.youtube.com/watch?v=hQVTIJBZook) - One of his early talk about the right way to program in javascript.
 * [Crockford on JavaScript](https://www.youtube.com/playlist?list=PL7664379246A246CB) - play list for 8 videos of about an hour each.
+* [Monads and Gonads](https://www.youtube.com/watch?v=b0EF0VTs9Dc) - Explaining the power of monads in javascript. Haskell is not required to understand this.
 
 **Brian Lonsdorf** 
 You have to watch Brian's talk several times to understand his concepts.
